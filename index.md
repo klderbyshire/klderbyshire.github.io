@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+## Top Five Things To Do In Sydney Tribute Page 
 
-You can use the [editor on GitHub](https://github.com/klderbyshire/klderbyshire.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+### A FreeCodeCamp Responsive Web Design Certification Challenge
+#### Description
+Being a coding beginner, this is my first coding project; as well as my first repository. It consists of a single Tribute page set by FreeCodeCamp's  Responsive Web Design certification. I am now very much looking forward to beginning the journey to being a Software Developer with The School of Code 16 week intensive skills bootcamp. I am excited at the prospect of working on further projects to constantly expand on my skill set, and learn from the basic skills that I have learnt so far to build this page. 
+After travelling the world from 2018 - 2020, I have a deep love of travel. I lived in Sydney for a year in this time, so thought I would complete a small travel guide to fulfil this projects requirements. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#### What I have learned from this project
+This project really helped to embed the basic HTML and CSS skills that I have have been learning so far.  Working through FreeCodeCamp is helpful, but it isn't until you really put those lessons into practice and start making projects that you realise how far you have come. I felt immense achievement from making this project, as simple as it is, from being a complete beginner. I could feel myself getting to grips with how CSS worked and the correlation with the HTML syntax.  I am going to embrace this new journey that I am on and appreciate the everyday challenges and struggles that come along the way. 
+Additionally, I had my first taste of using Git and Git Hub, which I'm sure will be an everyday occurrence from this day forward. 
 
-### Markdown
+#### Features
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* HTML and CSS
+* Coded on CodePen and VSC
+* Responsive web design
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/klderbyshire/klderbyshire.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+You can take a look at this demo page [here](https://codepen.io/klderbyshire/pen/eYEMwRP)
